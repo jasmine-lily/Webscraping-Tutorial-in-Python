@@ -2,11 +2,9 @@ import requests
 from threading import Thread
 
 class minuteprice:
-
-    pricelist = []
     
     def __init__(self):
-        pass
+        pricelist = []
         
     def getlink(self,stock):
         return('https://www.google.com/finance/getprices?q=%s&x=NASD&i=60&p=1d&f=c' %(stock))
