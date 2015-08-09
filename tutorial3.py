@@ -1,3 +1,6 @@
+#scrape 1-minute stock prices for all of the companies traded on nasdaq
+#and store them in mysql database
+
 import urllib
 import csv
 import pymysql
