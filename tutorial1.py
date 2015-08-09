@@ -1,3 +1,6 @@
+#Scrape restaurant name, address, phone and ratings from yelp
+#and store them in a csv file
+
 import requests
 from bs4 import BeautifulSoup
 import csv
