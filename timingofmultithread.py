@@ -1,3 +1,5 @@
+#compare the time of multithreading and through single thread 
+
 import requests,time
 from threading import Thread
 
