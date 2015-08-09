@@ -1,3 +1,5 @@
+#insert a csv file into a mysql table
+
 import csv
 import pymysql
 
