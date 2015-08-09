@@ -1,3 +1,5 @@
+#Scrap 1-minute stock prices for a list of stocks through multithreading
+
 import requests
 from threading import Thread
 
