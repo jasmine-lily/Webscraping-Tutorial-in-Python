@@ -1,3 +1,5 @@
+#scrape Twitter Top 100 Most Followers and store in a text file
+
 import requests
 from bs4 import BeautifulSoup
 
