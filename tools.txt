@@ -1,0 +1,56 @@
+R
+Matlab
+Python
+Java
+C
+SQL
+Hadoop
+MapReduce
+Hive
+Pig
+Spark
+AWS
+NoSQL
+Omniture
+SAS
+Excel
+Tableau
+D3
+Scala
+SPSS
+MS Access
+ETL
+distributed computing
+data warehouse
+Polymaps
+Gephi
+Google Charts
+GraphLab
+Cognos
+C++
+Unix
+Scikit-Learn
+HBase
+NumPy
+SciPy
+Pandas
+Weka
+Impala
+Oracle
+Business Objects
+Perl
+Shell
+Storm
+Bash
+Ruby
+Vertica
+git
+EMR
+Stata
+Linux
+S-PLUS
+Teradata
+DB2
+Go
+VBA
+Cloudera
