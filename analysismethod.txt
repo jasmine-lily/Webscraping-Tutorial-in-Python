@@ -1,0 +1,45 @@
+statistics,statistical modeling,statistical inference,statistical analysis
+machine learning,ML
+data mining
+experimental design
+ANOVA
+multivariate testing,A/B testing
+optimization
+Natural language processing,nlp
+Recommendation
+Text Mining,Text Analytics
+econometrics
+prediction,forecasting analytics,predictive analytics,discriminant analyses
+classification
+outlier detection
+regression,Logistic Regression,Linear Regression
+Support Vector Machine,svm
+CART
+Matrix Factorization,Factorization Machine
+Ensemble method,boosting
+Hidden Markov Model,hmm
+Graphical Model
+Mixture Model
+Markov Decision Process
+Clustering,hierarchical clustering
+analytics
+Hypergraph
+Decision tree
+Simulation
+scenario analysis
+Random Forest
+Evolutionary Programming
+Neural Network
+Fuzzy System
+Association Rule
+Singular Value Decomposition
+Principal Component Analysis
+Collaborative Filtering
+Personalization
+Consumer Segmentation
+information retrieval
+Mathematics
+Economics
+k-means
+LDA
+EM
